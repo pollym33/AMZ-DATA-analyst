@@ -1,4 +1,5 @@
 streamlit
 pandas
-google-genai  # 移除版本锁定，让环境安装最新的兼容版本
+google-genai
 matplotlib
+google-api-python-client # 强制修复 Google 命名空间冲突的工具
