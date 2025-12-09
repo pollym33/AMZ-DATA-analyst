@@ -1,4 +1,4 @@
 streamlit
 pandas
-google-genai==0.8.0  # 锁定一个最新的稳定版本
+google-genai  # 移除版本锁定，让环境安装最新的兼容版本
 matplotlib
